@@ -1,0 +1,18 @@
+
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8Î«ù¹/
+A
+java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿ8Ö«ù¹/
+‰
+java:S11303"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ8à«ù¹/
+f
+java:S4143D"DVerify this is the key that was intended; it was already set before.(ı¯Üºøÿÿÿÿ8•Êı¹/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(˜Ç’‚üÿÿÿÿ8å«ù¹/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(­€àÀ8å«ù¹/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8æ«ù¹/
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8ç«ù¹/
+6
+java:S1700"Rename field "order"(ö¹ÀÒûÿÿÿÿ8è«ù¹/
+\
+java:S2259"?A "NullPointerException" could be thrown; "e" is nullable here.(íÔ¼œ8ˆ¬ù¹/
